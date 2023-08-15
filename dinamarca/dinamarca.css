@@ -1,0 +1,16 @@
+body{
+    margin: 0%;
+}
+
+.Bandera{
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 60px;
+}
+
+.rect1, .rect2, .rect3, .rect4{
+    background-color: red;
+}
+
+

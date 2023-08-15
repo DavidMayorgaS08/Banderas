@@ -1,0 +1,25 @@
+body{
+    margin: 0%;
+}
+
+.padre{
+    height: 100vh;
+    display: grid;
+    grid-template-rows: 1fr 2fr 1fr;
+}
+
+.amarillo{
+    background-color: yellow;
+    display: flex;
+    align-items: center;
+}
+
+.rojo{
+    background-color: red;
+}
+
+img{
+    width: auto;
+    height: 65%;
+    margin-left: 10%;
+}
